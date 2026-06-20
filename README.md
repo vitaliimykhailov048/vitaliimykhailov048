@@ -53,7 +53,7 @@
   - - 📈 Fintech background: FXPRIMUS trading platform, MT4 server integration, microservices for high-frequency financial data
     - - 🔍 Observability-first approach: Prometheus, Grafana, Loki, SLO/SLA tracking, incident response
       - - 🔐 Security: Vault, Keycloak, OIDC, JWT authentication flows
-        - - 🌍 Based in Berlin (German permanent residency) — open to **Cyprus, EU, US** and **freelance/contract** roles
+        - - 🌍 Based in Cyprus — open to **Cyprus, EU, US** and **freelance/contract** roles
          
           - ---
 
