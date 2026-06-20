@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vitaliimykhailov-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vitaliimykhailov)
 [![Go Report Card](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/vitaliimykhailov048)
-[![Location](Cyprus%20%26%20Remote-green?style=flat)](https://linkedin.com/in/vitaliimykhailov)
+[![Location](https://img.shields.io/badge/Cyprus%20%26%20Remote-green?style=flat)](https://linkedin.com/in/vitaliimykhailov)
 
 ---
 
