@@ -52,7 +52,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**OpsPulse**](https://github.com/vitaliimykhailov048/OpsPulse) | Uptime monitor with REST API, background workers, Prometheus metrics & Grafana dashboards | Go, chi, pgx, PostgreSQL, Prometheus, Grafana, Docker, GitHub Actions |
+| [**OpsPulse**](https://github.com/vitaliimykhailov048/Opspluse) | Uptime monitor with REST API, background workers, Prometheus metrics & Grafana dashboards | Go, chi, pgx, PostgreSQL, Prometheus, Grafana, Docker, GitHub Actions |
 
 > 🚧 More projects coming: Terraform EKS module, K8s GitOps demo (Argo CD + Helm), reusable GitHub Actions workflows, Go microservice with gRPC
 >
