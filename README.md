@@ -1,6 +1,6 @@
 # Vitalii Mykhailov
 
-### Mid-Level DevOps & Go Engineer · Full-Stack (React / Next.js)
+### DevOps & Go Engineer · Full-Stack (React / Next.js)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vitaliimykhailov-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vitaliimykhailov)
 [![Location](https://img.shields.io/badge/Cyprus%20%26%20Remote-green?style=flat)](https://linkedin.com/in/vitaliimykhailov)
